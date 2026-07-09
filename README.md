@@ -10,7 +10,7 @@ its heading — content to be added.
 | File | Purpose |
 | --- | --- |
 | `_site.yml` | Site configuration: navbar and shared options |
-| `index.Rmd` | Home page |
+| `index.Rmd` | About page (site landing page) |
 | `research.Rmd` | Research page |
 | `archives.Rmd` | Archives page |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |

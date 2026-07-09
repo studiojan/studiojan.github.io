@@ -4,7 +4,7 @@ exclude: ["README.md", "*.Rproj"]
 navbar:
   title: "Jane's Github"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "Research"
       href: research.html
