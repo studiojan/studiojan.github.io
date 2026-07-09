@@ -10,9 +10,6 @@ navbar:
       href: research.html
     - text: "Archives"
       href: archives.html
-  right:
-    - text: "ORCID"
-      href: https://orcid.org/0000-0002-2217-6977
 output:
   html_document:
     css: styles.css
