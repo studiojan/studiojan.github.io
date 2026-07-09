@@ -10,7 +10,8 @@ its heading — content to be added.
 | File | Purpose |
 | --- | --- |
 | `_site.yml` | Site configuration: navbar and shared options |
-| `index.Rmd` | About page (site landing page) |
+| `index.Rmd` | About page (site landing page; links to the four subpages) |
+| `home.Rmd`, `cv.Rmd`, `biosketch.Rmd`, `contact.Rmd` | About subpages |
 | `publications.Rmd` | Publications page |
 | `profiles.Rmd` | Profiles page (profile links) |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |

@@ -1,3 +1,8 @@
 ---
 title: "About"
 ---
+
+- [Home](home.html)
+- [CV](cv.html)
+- [Biosketch](biosketch.html)
+- [Contact](contact.html)
