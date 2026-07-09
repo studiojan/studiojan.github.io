@@ -11,8 +11,8 @@ its heading — content to be added.
 | --- | --- |
 | `_site.yml` | Site configuration: navbar and shared options |
 | `index.Rmd` | About page (site landing page) |
-| `research.Rmd` | Research page |
-| `archives.Rmd` | Archives page |
+| `publications.Rmd` | Publications page |
+| `other.Rmd` | Other page (profile links) |
 | `styles.css` | Fonts and colours (Courier, black on white, blue links) |
 
 ## How to edit
