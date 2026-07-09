@@ -1,3 +1,9 @@
 body {
-  font-family: "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", Georgia, serif;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+a {
+  color: #0000ee;
 }

@@ -11,8 +11,9 @@ its heading — content to be added.
 | --- | --- |
 | `_site.yml` | Site configuration: navbar and shared options |
 | `index.Rmd` | Home page |
-| `research.Rmd` | Research synopsis and downloadable tools |
-| `cv.Rmd` | Curriculum vitae |
+| `research.Rmd` | Research page |
+| `archives.Rmd` | Archives page |
+| `styles.css` | Fonts and colours (Courier, black on white, blue links) |
 
 ## How to edit
 
