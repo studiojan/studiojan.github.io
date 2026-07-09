@@ -1,12 +1,16 @@
 <script>
-// Make the About navbar entry behave as a real link (to the bullet list on
-// index.html) while its dropdown opens on hover via CSS. Without this,
-// Bootstrap hijacks the click to toggle the menu instead of navigating.
+// Make dropdown navbar entries behave as real links (About -> about.html,
+// Studio -> studio.html) while their menus open on hover via CSS. Without
+// this, Bootstrap hijacks the click to toggle the menu instead of navigating.
 document.addEventListener("DOMContentLoaded", function () {
-  var toggle = document.querySelector(".navbar .dropdown > a.dropdown-toggle");
-  if (toggle) {
-    toggle.setAttribute("href", "about.html");
-    toggle.removeAttribute("data-toggle");
-  }
+  var targets = { "About": "about.html", "Studio": "studio.html" };
+  var toggles = document.querySelectorAll(".navbar .dropdown > a.dropdown-toggle");
+  Array.prototype.forEach.call(toggles, function (toggle) {
+    var label = toggle.textContent.trim().split(/\s/)[0];
+    if (targets[label]) {
+      toggle.setAttribute("href", targets[label]);
+      toggle.removeAttribute("data-toggle");
+    }
+  });
 });
 </script>

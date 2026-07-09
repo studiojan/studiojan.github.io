@@ -1,3 +1,8 @@
 ---
 title: "Studio"
 ---
+
+- [Blog](blog.html)
+- [Photography](photography.html)
+- [Writing](writing.html)
+- [Archived works 2024-2025](https://janeyan.se)

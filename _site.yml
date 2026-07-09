@@ -19,6 +19,15 @@ navbar:
       href: publications.html
     - text: "Studio"
       href: studio.html
+      menu:
+        - text: "Blog"
+          href: blog.html
+        - text: "Photography"
+          href: photography.html
+        - text: "Writing"
+          href: writing.html
+        - text: "Archived works 2024-2025"
+          href: https://janeyan.se
 output:
   html_document:
     css: styles.css
