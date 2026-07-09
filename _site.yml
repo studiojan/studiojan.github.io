@@ -2,7 +2,7 @@ name: "my-website"
 output_dir: "_site"
 exclude: ["README.md", "*.Rproj"]
 navbar:
-  title: "My Website"
+  title: "Jane's Github"
   left:
     - text: "Home"
       href: index.html
