@@ -3,5 +3,5 @@ title: "Research"
 ---
 
 - [Current](current.html)
-- [Statistical works](statistical-works.html)
+- [Modeling works in medical research](modeling-works.html)
 - [Publications](publications.html)

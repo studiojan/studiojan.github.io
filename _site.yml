@@ -20,8 +20,8 @@ navbar:
       menu:
         - text: "Current"
           href: current.html
-        - text: "Statistical works"
-          href: statistical-works.html
+        - text: "Modeling works in medical research"
+          href: modeling-works.html
         - text: "Publications"
           href: publications.html
     - text: "Studio"
